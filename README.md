@@ -1,6 +1,6 @@
-## Hi there 👋
-# My name is Ebube Orlukwuk, this is a little about me
+## Hi there 👋 My name is Ebube Orlukwu
 
+#   About me..
 🎓 2025 Software Engineering Graduate @ Lakehead University  
 🚀 Passionate about building impactful, scalable full-stack projects  
 📍 Thunder Bay, ON | 🧠 AI | ☁️ Cloud | 🛠️ DevOps  
